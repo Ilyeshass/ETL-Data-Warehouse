@@ -1,3 +1,8 @@
+/*
+Creating the Database structure
+*/
+
+
 USE master;
 GO
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name='DataWareHouse')
