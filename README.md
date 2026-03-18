@@ -37,7 +37,7 @@ To ensure data integrity, maintainability, and optimal query performance, the da
 ## 📂 Repository Structure
 
 ```text
-📦 data-warehouse-pipeline
+📦 ETL-Data-Warehouse
  ┣ 📂 datasets               # Simulated source data (CRM/ERP exports)
  ┣ 📂 docs                   # Architecture diagrams and schema documentation
  ┣ 📂 src
