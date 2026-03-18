@@ -41,9 +41,9 @@ To ensure data integrity, maintainability, and optimal query performance, the da
  ┣ 📂 datasets               # Simulated source data (CRM/ERP exports)
  ┣ 📂 docs                   # Architecture diagrams and schema documentation
  ┣ 📂 src
- ┃ ┣ 📂 00_setup             # DDL scripts for database and schema creation
- ┃ ┣ 📂 01_layer_one         # Ingestion scripts and BULK INSERT procedures
- ┃ ┣ 📂 02_layer_two         # Cleansing and transformation logic
- ┃ ┗ 📂 03_layer_three       # Star schema definitions and analytical views
+ ┃ ┣ 📂 Setup             # DDL scripts for database and schema creation
+ ┃ ┣ 📂 layer_one         # Ingestion scripts and BULK INSERT procedures
+ ┃ ┣ 📂 layer_two         # Cleansing and transformation logic
+ ┃ ┗ 📂 layer_three       # Star schema definitions and analytical views
  ┣ 📜 README.md              # Project documentation
  ┗ 📜 .gitignore
